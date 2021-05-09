@@ -9,6 +9,9 @@
 ![111](https://user-images.githubusercontent.com/73534500/117582315-408ebc80-b123-11eb-91cd-878235b64c38.png)
 
 # Figma
+<h1>link for figma</h1>
+https://www.figma.com/file/nirWTn0f6mel6AcV2UiErx/Meerlan-Tynarbekov-s-team-library?node-id=0%3A1
+
 <img width="1057" alt="figma6" src="https://user-images.githubusercontent.com/73534500/117582461-ef32fd00-b123-11eb-8387-432f3b6d78cf.png">
 
 
