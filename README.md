@@ -8,3 +8,7 @@
 # Trello
 ![111](https://user-images.githubusercontent.com/73534500/117582315-408ebc80-b123-11eb-91cd-878235b64c38.png)
 
+# Figma
+<img width="1057" alt="figma6" src="https://user-images.githubusercontent.com/73534500/117582461-ef32fd00-b123-11eb-8387-432f3b6d78cf.png">
+
+
