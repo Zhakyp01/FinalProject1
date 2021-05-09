@@ -16,6 +16,9 @@ https://trello.com/invite/b/FpKcska6/794b98ff0e7ba999afba46c1f696cd97/java-proje
 <h1>link for figma</h1>
 https://www.figma.com/file/nirWTn0f6mel6AcV2UiErx/Meerlan-Tynarbekov-s-team-library?node-id=0%3A1
 
-<img width="1057" alt="figma6" src="https://user-images.githubusercontent.com/73534500/117582461-ef32fd00-b123-11eb-8387-432f3b6d78cf.png">
+
+
+![Безымянный](https://user-images.githubusercontent.com/73534500/117584705-44750b80-b130-11eb-84d8-a5aa5823b79e.png)
+
 
 
